@@ -1,6 +1,6 @@
 # MagentoDockerized
 
-## Following the tutorial of https://github.com/markshust/docker-magento
+## Following the tutorial at https://github.com/markshust/docker-magento
 
 ### Execute the provided shell script to download the necessary files from Github
 ```
