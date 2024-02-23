@@ -76,6 +76,11 @@ src folder
 User: magento
 Password: magento
 ```
+#### /admin
+```
+MAGENTO_ADMIN_USER=john.smith
+MAGENTO_ADMIN_PASSWORD=password123
+```
 #### start/stop
 ```
 docker-compose start
